@@ -1,0 +1,21 @@
+body {
+    background-color: #edf6ff;
+}
+h1 {
+    color: #00374f;
+}
+p{
+    color: #253e4a;
+}
+h2 {
+    color: #dd3b2a;
+}
+h3 {
+    color: #dd3b2a;
+}
+a {
+    color: #31aee2;
+}
+a.hover {
+    color: blue;
+}
